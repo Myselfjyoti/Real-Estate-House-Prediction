@@ -16,7 +16,7 @@ Python
 Libraries:
 Data Processing → Pandas, NumPy
 Visualization → Matplotlib, Seaborn
-Machine Learning → Scikit-learn
+Machine Learning → Scikit-learn, XGBoost
 Model Tuning → GridSearchCV, K-Fold Cross Validation
 
 **Key Steps**
