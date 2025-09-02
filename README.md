@@ -39,7 +39,7 @@ Lasso Regression	   68.74%
 **How to Run**
 
 1. Clone this repo:
-   git clone https://github.com/Myselfjyoti/Real-Estate-House-Prediction/tree/main
+   git clone https://github.com/jyotiitk/Real-Estate-House-Prediction/tree/main
    cd real-estate-price-prediction
 
 2. Run the notebook:
