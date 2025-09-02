@@ -32,8 +32,8 @@ Model Tuning → GridSearchCV, K-Fold Cross Validation
 **Results**
 
 Model	               Accuracy
-Linear Regression	   81.83%
-Decision Tree	       72.31%
+Linear Regression	   81.9%
+Decision Tree	       72.5%
 Lasso Regression	   68.74%
 
 **How to Run**
